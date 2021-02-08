@@ -1,0 +1,25 @@
+_repo: Sweet-Hampstead-and-Its-Associations_64394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Caroline A.
+    birthdate: 1811
+    deathdate: 1912
+    gutenberg_agent_id: '52883'
+    url: http://www.gutenberg.org/2009/agents/52883
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64394'
+  lccn: 01025081
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hampstead (London, England) -- History'
+- !lcc 'DA'
+- GITenberg
+title: Sweet Hampstead and Its Associations
+url: http://www.gutenberg.org/ebooks/64394
