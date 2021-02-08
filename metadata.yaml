@@ -1,5 +1,8 @@
 _repo: Sweet-Hampstead-and-Its-Associations_64394
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64394-h/images/cover.jpg
 creator:
   author:
     agent_name: White, Caroline A.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52883'
     url: http://www.gutenberg.org/2009/agents/52883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64394#Sweet-Hampstead-and-Its-Associations
 gutenberg_issued: '2021-01-26'
 gutenberg_type: Text
 identifiers:
